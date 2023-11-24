@@ -1,0 +1,264 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+    color: #000;
+    font-size: 25px;
+    text-align: justify;
+    
+}
+
+.encabezado{
+    font-family:fantasy;
+    font-size: 35px;
+background-color: #FFB6C1;
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+    padding: 20px;
+     border: 2px solid #C71585;
+     width: 1305px;
+     height: 140px;
+     
+     
+}
+
+.titulo1{
+    position:absolute;
+    top: 10px; left: 550px;
+}
+
+
+
+
+
+
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    background-color: #8ac7a9;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    margin: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+footer {
+    background-color: #D8BFD8;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid #663399;
+    width: 1200px;
+    height: 50px;
+    position:absolute;
+    top: 920px; left: 50px;
+    
+    
+}
+.cuadro {
+    width: 1000px;
+    height: 300px;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    border: 2px double #000;
+}
+
+
+.rojo {
+    background-color: rgb(255, 255, 255) ;
+    border: 2px dotted #fffefe;
+    width: 800px;
+    height: 40px;
+    text-align:left;
+     position:absolute;
+     top: 180px; left: 490px;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-size: 30px;
+     
+     
+    
+     
+     
+     
+}
+
+.azul {
+    
+   
+    position: absolute;
+     top: 270px; left: 317px;
+     width: 980px;
+    height: 130px;
+    text-align: justify;
+    border: 2px dotted #ffffff;
+    
+    
+}
+.verde {
+    background-color: #E8F5E9;
+    border: 2px dotted #000;
+    width: 450px;
+    height: 320px;
+    position:relative;
+    text-align: justify;
+    top: 270px; left: 320px;
+}
+.negro {
+    background-color: #FFC0CB;
+    border: 2px solid #000;
+    
+    text-align: justify;
+    position:relative;
+    top: 100px; left: 443px;
+    width: 650px;
+    height: 520px;
+ }
+ .magenta{
+    border: 2px solid #000;
+    position: relative;
+    top: -95px; left: -503px;
+    width: 1240px;
+    height: 650px;
+
+ }
+
+ .img{
+    width: 650px;
+    height: 520px;
+ }
+
+
+ .hoja{
+    width: 150px;
+    height: 120px;
+   
+
+    text-align: justify;
+    position:relative;
+    top: 70px; left: 470px;
+ }
+
+ .hoja2{
+
+    width: 170px;
+    height: 60px;
+   
+
+    text-align: justify;
+    position:relative;
+    top: 100px; left: -450px;
+ }
+
+ 
+
+ .rosa{
+    background-color: #E8F5E9;
+    border: 1px solid #000;
+    border-radius: 10px 10px 10px 10px;
+    
+    text-align: justify;
+    position:absolute;
+    top: 220px; left: 318px;
+    width: 100px;
+    height: 30px;
+   
+
+ }
+
+ .menu1{
+    background-color: #D1D6CA;
+    border: 2px; display:  #000;
+    width: 200px;
+    height: 50px;
+    position:absolute;
+    top: 240px;
+    left: 58px;
+ }
+ .menu2{
+
+    background-color: #F6CCDC;
+    border: 2px; display:  #000;
+    width: 300px;
+    height: 50px;
+    position:absolute;
+    top: 340px;
+    left: 58px;
+    text-align: justify;
+    
+   
+   
+    
+ }
+ 
+ .menu3{
+
+    background-color: #FFEFD5;
+    border: 2px; display:  #000;
+    width: 300px;
+    height: 50px;
+    position:absolute;
+    top: 410px;
+    left: 58px;
+    text-align: justify;
+    
+ }
+ 
+ .menu4{
+
+    background-color: #F6CCDC;
+    border: 2px; display:  #000;
+    width: 300px;
+    height: 50px;
+    position:absolute;
+    top: 480px;
+    left: 58px;
+    text-align: justify;
+    
+ }
+ 
+ .menu5{
+
+    background-color: #FFEFD5;
+    border: 2px; display:  #000;
+    width: 300px;
+    height: 50px;
+    position:absolute;
+    top: 550px;
+    left: 58px;
+    text-align: justify;
+    
+ }
+ .menu6{
+
+    background-color: #FFEFD5;
+    border: 2px; display:  #000;
+    width: 200px;
+    height: 40px;
+    position:absolute;
+    top: 490px;
+    left: 58px;
+ }
+ .menu7{
+
+    background-color: #D1D6CA;
+    border: 2px; display:  #000;
+    width: 200px;
+    height: 40px;
+    position:absolute;
+    top: 540px;
+    left: 58px;
+ }
+ 
+
+
